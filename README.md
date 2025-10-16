@@ -20,7 +20,7 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 
 # PROGRAM
 ```
- #include <stdio.h>
+  #include <stdio.h>
  #include <string.h>
  #include <ctype.h>
  void encryptRailFence(char *message, int rails) {
@@ -53,8 +53,8 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
  }
 ```
 # OUTPUT
+<img width="1425" height="839" alt="Screenshot 2025-10-16 091224" src="https://github.com/user-attachments/assets/c5034018-d89a-4867-b994-4022908ae67f" />
 
-<img width="1439" height="816" alt="Screenshot 2025-09-15 131450" src="https://github.com/user-attachments/assets/4ce2720a-3aa8-4482-98c2-ea8ae6a36bb4" />
 # RESULT
 Thus the program executed successfully.
 
